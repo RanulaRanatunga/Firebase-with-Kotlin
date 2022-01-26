@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "395481858446",
+    "project_id": "kotlin-project-6d957",
+    "storage_bucket": "kotlin-project-6d957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395481858446:android:bd9c61cae7b03481efe4df",
+        "android_client_info": {
+          "package_name": "com.ranula.kotlin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395481858446-60fnrhogu4kffsfgheuor8a6ulkhk921.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ranula.kotlin_app",
+            "certificate_hash": "b5278c33284e2e1e6f4f098bfc35b8ff5deb1394"
+          }
+        },
+        {
+          "client_id": "395481858446-uu1pmssflqst0teimtpke96uo5s6n4cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFf4bc2JHt2WDhftVF8IPrF3P24KxL2vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395481858446-uu1pmssflqst0teimtpke96uo5s6n4cc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
